@@ -13,3 +13,10 @@ nav ul li {
   display: inline-block;
   padding: 10px 20px;
 }
+
+.info {
+  width: 30%;
+  height: 300px;
+  border: 5px dotted;
+  border-color: rgb(152,143,145);
+}
