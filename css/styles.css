@@ -1,0 +1,9 @@
+body {
+  background-image: url(../images/pink_rice.png);
+  background-repeat: repeat;
+}
+
+header {
+  width: 100%;
+  background-color: rgb(152,143,145);
+}
