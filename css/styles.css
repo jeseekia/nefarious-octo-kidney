@@ -6,4 +6,10 @@ body {
 header {
   width: 100%;
   background-color: rgb(152,143,145);
+  height: 50px;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px 20px;
 }
